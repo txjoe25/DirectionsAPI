@@ -1,3 +1,3 @@
-Send an Ajax request from the client side to our server, and our server will make the request for us and give us back the request to bypass Access Control Origin again.
+This repository sends an Ajax request from the client side to our server, and our server will make the request for us and give us back the request to bypass Access Control Origin again.
 
 https://developers.google.com/maps/documentation/directions/#DirectionsRequests
